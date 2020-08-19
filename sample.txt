@@ -77,3 +77,28 @@ Defined by start tag, some content and end tag
 
 9. Script Tags - <Script> , <noscript>
 
+
+Mark - Tag will Mark or Highlight a text that is of relevance 
+
+code - Defines a fragment of computer code
+
+small - defines smallar text copyright or side-commennts
+
+sub - Subscript , will be used for displaying text as subscript for e.g. Chemical forumlas
+
+sup - Superscript, will be used for displaying text as superscript for e.g. Maths Algebra
+
+del - Tag is used to identify text that has been deleted from a document but 
+      retained to show the history of modification made to the document.
+
+ins - Tag defines a text that has been inserted into a document
+
+cite - Defines the title of creative work ( book, poem, song, movie)
+
+q - quotation
+
+abbr - abbreviation
+
+p - paragraph
+
+space - to add space se &nbsp;
