@@ -102,3 +102,25 @@ abbr - abbreviation
 p - paragraph
 
 space - to add space se &nbsp;
+
+HTMl CSS 
+--------
+
+CSS - Cascading Stylesheet - To format the layout of my webpage
+    - With CSS you can control the color, font, size of the text, 
+      elemepnt position, background, background images, background colors
+
+CSS - Can be added to HTMl docuemnt in 3 ways
+
+Inline -   by using style attribute inside HTML Elelment
+Internal - by using <style> element in <head> section
+External - by using <link> element to link external CSS
+
+CSS Colors, Fonts, sizes
+--------------------------
+color - defines the text of your color
+font-family - defines font to be used
+font-size - defines size of the font
+border - define border for all HTML elelments
+padding - defines space between your text and the border
+margin - defines the space between border
