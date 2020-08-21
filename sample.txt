@@ -124,3 +124,57 @@ font-size - defines size of the font
 border - define border for all HTML elelments
 padding - defines space between your text and the border
 margin - defines the space between border
+
+
+HTML Forms 
+-----------
+Required to collect some data from the user. for e.g Name, Email, Phone 
+
+<form action="/user" method="get">
+      form elements
+</form>
+
+HTTP Methods - GET, PUT, POST, DELETE ( CRUD Operations)
+
+HTML FORM Controls
+---------------------
+1. Text Input Control  - Single line Input, Password Input, Multiline Input
+2. Checkbox Control - value, checked
+3. Radiobox Control
+4. Selectbox control 
+5. File Control
+6. Hidden Control 
+7. Clickable button
+8. Submt and reset Button 
+
+Block Level Element and Inline Element
+--------------------------------------
+
+Block level element occupies entire space of the parent
+Always starts in a  new line
+
+Block-Level elements
+----------------------
+1. H1-H6 
+2. <table>
+3. <p>
+4. <div>
+5. <form>
+6. <video>
+7. <hr>
+8. <address>
+9. <header>
+10. <footer>
+
+Inline elements
+---------------
+1. <span>
+2. <a>
+3. <button>
+4. <sup>
+5. <sub>
+6. <textArea>
+7. <label>
+8. <b>
+9. <strong>
+10. <img>
