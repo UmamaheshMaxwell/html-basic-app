@@ -166,8 +166,12 @@ Block-Level elements
 9. <header>
 10. <footer>
 
-Inline elements
+Inline elements 
 ---------------
+ 1. Doesn't start on a new line
+ 2. Only takes up as much width as necessary
+ 3. Can not contain block-level element 
+
 1. <span>
 2. <a>
 3. <button>
@@ -178,3 +182,84 @@ Inline elements
 8. <b>
 9. <strong>
 10. <img>
+
+span - container used to amrk up a part of text or part of document 
+  
+div -  Known as DIVISON Tag
+       
+       It is often used as a container for other HTMl elements
+      
+       defines a division or a section in an HTMl document
+
+       any sort of content can be placed inside <div> tag
+
+<div> 
+      <p></p>
+      <h1><h1>
+      <labe>
+      <span>
+      .....
+</div>
+
+label vs span 
+-------------
+Label is used when we have form or imput elements
+
+Span is used anywhere, this is ageneral container for any inline content
+
+
+HTML DOM ( Document Object Model)
+----------------------------------
+When page is loaded, browser creates a docuemnt object Model of the page 
+
+Usage: With HTML DOM Javascript can access all the elements of HTML Document
+       
+       Javascript can add, remove, change all the HTML elelments, HTML Attributes,
+       CSS Styles in the page.
+
+       Javascript can react to HTML events, can create new HTMl events in the page.
+
+Video 
+------
+Will help you display video in the page
+
+controls - The browsers will offer controls to allow the user 
+           to control audio, playback, volume, pause /Resume
+
+autoplay - The audio will automatically begin playback as soon as it can.
+
+muted - will mute the audio
+
+Audio 
+------
+Will help you display audio in the page
+
+controls - The browsers will offer controls to allow the user 
+           to control audio, playback, volume, pause /Resume
+
+autoplay - The audio will automatically begin playback as soon as it can.
+
+muted - will mute the audio
+
+HTML Class
+-----------
+This is an attribute which is used to specify a class for an HTML element
+
+Multiplw HTML elements can share same class 
+
+HTML Responsive
+---------------
+
+Responsive web design is about creating webpages that look good on all devices.
+
+This will automatically adjust for different screen sizes and viewports
+
+To create responsive website we need <meta> tag 
+
+<meta name="viewport" content="width=device-width", intial scale 1.0">
+
+This will set the viewport of your page whivh will give browser instructions on how
+to control page diemsnsions and scaling.
+
+meta - Elelment Speicfy the charcter set, page description, keywords, 
+       author of the document and viewport settings.
