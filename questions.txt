@@ -1,0 +1,9 @@
+1. forward or backward options in video tag - Using javascript or JQuery we can enable these features
+2. Creating Meta tags - we can create meta tags - Designing the responsive web pages
+3. Creating a logo - Let us ee an example
+4. HTML 4 and HTML 5 Difference 
+5. All semantic elements are block-level elements ? All are block level elements
+
+1. Occupies entire space as parent
+2. Always starts in a new line
+

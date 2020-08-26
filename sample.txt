@@ -263,3 +263,34 @@ to control page diemsnsions and scaling.
 
 meta - Elelment Speicfy the charcter set, page description, keywords, 
        author of the document and viewport settings.
+
+Semantic elelments 
+-------------------
+Elements with meaning  and clearly tell us what the content is about
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<nav>
+<main>
+<mark>
+<section>
+<summary>
+<time>
+
+Non Semantic Elements
+-----------------------
+<div>
+<span>  
+<p>
+
+
+Tells nothing about the content
+
+<div id="nav">
+<div class="header">
+<div class="footer">
